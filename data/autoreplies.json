@@ -1,0 +1,46 @@
+{
+    "1": {
+        "messages": [
+            "السلام علیکم",
+            "hi",
+            "Aoa",
+            "hey bro",
+            "please help me",
+            "Hi",
+            "hello",
+            "Hello",
+            "A0A",
+            "Asslam-O-Alaikum",
+            "Assalamualaikum",
+            "Assalamualaikum sir",
+            "kiya app meri help kr sktay ho"
+        ],
+        "response": "Hi Dear How may I assist you today!"
+    },
+    "2": {
+        "messages": [
+            "How are you",
+            "How are you",
+            "how are you?",
+            "How are you!",
+            "kya hall ha",
+            "Kasay ho",
+            "app Kasay ho"
+        ],
+        "response": "I am good, How can i assist you!"
+    },
+    "3": {
+        "messages": [
+            "Where are you going",
+            "What happened",
+            "ok",
+            "Acha",
+            "thanks",
+            "Okay",
+            "No",
+            "free?"
+
+        ],
+        "response": "noreply"
+    }
+}
